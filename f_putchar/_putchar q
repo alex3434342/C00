@@ -1,6 +1,0 @@
-includt <unistd.h>
-
-void f_putchar(char.c)
-{
-     write(1,&c,1)
-}
